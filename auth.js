@@ -13,7 +13,13 @@ const AUTH_CONFIG = {
   //   2. Add the hash string to this array
   ALLOWED_HASHES: [
     // interactivejeff@gmail.com
-    "c4d11508022930a29a8adce69bdcee829d662674724a54bce990f6fc138b24cd"
+    "c4d11508022930a29a8adce69bdcee829d662674724a54bce990f6fc138b24cd",
+    // dylan.fawsitt@vbrick.com
+    "8bb3268534e237c963cdbee264ade0c5acdb2ecbd4bf7dc8adc9edb382df1191",
+    // kara.pryor@vbrick.com
+    "2e85e77774ab9b7b557c56c2f8dce6089caa7581559660965c2fe98272b679c1",
+    // bfzm@vbrick.com
+    "0463c1115bf30cdc4cc7598886c03f8eb8ff39c6a7a30da614fa7d2ccd369af2"
   ],
   
   // Session duration in hours
